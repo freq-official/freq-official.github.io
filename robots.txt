@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freq-official.github.io/sitemap.xml
